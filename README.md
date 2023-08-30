@@ -1,4 +1,6 @@
 # House-Price-Prediction
+# TASK-1
+##  1) House Price Prediction : Machine Learning model to predict house price using linear regression
 
 
 ![house price prediction (ML)- Jupyter Notebook](https://github.com/pavankalyanchittala/House-Price-Prediction/assets/117903644/17582a9c-cd78-4802-80cd-a28b3c921025)
